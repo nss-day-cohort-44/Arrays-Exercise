@@ -4,14 +4,9 @@ This exercise is meant to help you indentify any potential weak spots in your kn
 
 ## Getting Started
 
-1. Clone this repo
-1. Create your own repo on Github and name it `Array Exercises`
-1. Set your local repo to point at your Github project
-
-   ```sh
-   git remote set-url origin YOUR_GITHUB_URL_HERE
-   ```
-
+1. Open your terminal and `cd` to your workspace directory  
+1. Clone this project
+1. Once the project is cloned, `cd Arrays-Exercise`
 1. From the root of the project, run
    ```
    npm install
@@ -22,4 +17,3 @@ This exercise is meant to help you indentify any potential weak spots in your kn
 1. Every test that you get to pass, make a commit and push it to github
 
 > NOTE: These exercises are meant to assess your knowledge of `map`, `filter`, and `find`. Many of the tests will not pass if you don't use the correct method, so please avoid using `for` loops
-# array-exercises
