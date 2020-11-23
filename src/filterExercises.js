@@ -31,7 +31,7 @@ const instructors = useInstructors();
 
 /******** ADVANCED CHALLENGE ********/
 /******** Only do this if all other tests are passing ****/
-/******** To test, uncomment the code at the bottom of tests/filter.spec.js  *****/
+/******** To test, in tests/filter.spec.js, uncomment the import statement at the top AND the test code at the bottom *****/
 
 // Export a function called getStudentsByLanguages
 // It should accept an array of strings as a parameter named `languages`
